@@ -1,0 +1,7 @@
+compressai
+torch
+torchvision
+matplotlib
+numpy
+scikit-image
+Pillow
